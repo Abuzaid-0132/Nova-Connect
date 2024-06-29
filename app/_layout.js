@@ -5,3 +5,4 @@ const Layout = () => {
 };
 
 export default Layout;
+// This is a layout page.
